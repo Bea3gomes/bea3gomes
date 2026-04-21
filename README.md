@@ -1,6 +1,6 @@
 # 🌷 Bea3gomes
 
-**`Analista de Dadsos*
+** Analista de Dadsos*
 
 Me chamo Beatriz Gomes, sou paulistana e apaixonada por tecnologia. Concluí o ensino médio no ITB Brasílio Flores de Azevedo, com o curso técnico em informática. 
 Atualmente, estou finalizando meu bacharel em Engenharia de Software na Unicive. Sou engajada com temas de tecnologia e compartilho minha rotina de estudos pelo meu canal do Youtube "[beatresis](https://www.youtube.com/@beatresis)", onde compartilho meus desenvolvimentos de projetos pessoais".
